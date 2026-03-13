@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Petit+Formal+Script&display=swap');
+
 /* Resets & Variables */
 @font-face {
   font-family: "Bellefair";
@@ -26,6 +28,7 @@
   --font-heading: "Bellefair", serif;
   --font-script: "Great Vibes", cursive;
   --font-body: "Lancelot", sans-serif;
+  --font-script-2: 'Petit Formal Script', cursive;
   --section-height: 100svh;
   --section-height-md: 160svh;
   --section-height-lg: 140svh;
@@ -180,13 +183,13 @@ h3 {
 }
 
 .bride-groom-title {
-  font-size: 3rem;
+  font-size: 4rem;
   color: var(--cream-light);
   margin-bottom: 0.5rem;
-  font-family: var(--font-heading);
+  font-family: var(--font-script-2);
   font-weight: 200;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
+  /* text-transform: uppercase; */
+  letter-spacing: 0em;
   margin-bottom: 1.5rem;
 }
 
@@ -1054,7 +1057,7 @@ a.btn-primary {
   }
 
   .bride-groom-title {
-    font-size: 2rem;
+    font-size: 3rem;
   }
 
   .map-wrapper {

@@ -22,36 +22,10 @@
     },
     "celebrations": [
         {
-            "name": "Haldi",
-            "date": "Apr 28, 2026",
-            "time": "12:00 PM",
-            "venue": "Botanix Nature Resort, Sohna, Haryana",
-            "showLocation": false,
-            "dressCode": "Love and Tradition",
-            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Harshit+%26+Aditi+-+Haldi&dates=20260428T120000/20260428T150000&details=Dress+Code:+Love+and+Tradition&location=Botanix+Nature+Resort,+Sohna,+Haryana&ctz=Asia/Kolkata"
-        },
-        {
-            "name": "Sangeet",
-            "date": "Apr 28, 2026",
-            "time": "8:00 PM",
-            "venue": "Botanix Nature Resort, Sohna, Haryana",
-            "showLocation": false,
-            "dressCode": "An evening of music and dance",
-            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Harshit+%26+Aditi+-+Sangeet&dates=20260428T200000/20260428T230000&details=Dress+Code:+An+evening+of+music+and+dance&location=Botanix+Nature+Resort,+Sohna,+Haryana&ctz=Asia/Kolkata"
-        },
-        {
-            "name": "Pre Wedding Ceremony",
-            "date": "Apr 29, 2026",
-            "time": "11:00 AM onwards",
-            "venue": "Botanix Nature Resort, Sohna, Haryana",
-            "showLocation": false,
-            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Harshit+%26+Aditi+-+Pre+Wedding+Ceremony&dates=20260429T110000/20260429T140000&details=Pre+Wedding+Ceremony&location=Botanix+Nature+Resort,+Sohna,+Haryana&ctz=Asia/Kolkata"
-        },
-        {
             "name": "Baraat",
             "date": "Apr 29, 2026",
             "time": "4:00 PM",
-            "venue": "Botanix Nature Resort, Sohna, Haryana",
+            "venue": "Botanix Nature Resort, Near Damdama Lake, Sohna, Haryana",
             "showLocation": false,
             "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Harshit+%26+Aditi+-+Baraat&dates=20260429T160000/20260429T170000&details=Baraat+Procession&location=Botanix+Nature+Resort,+Sohna,+Haryana&ctz=Asia/Kolkata"
         },
@@ -59,7 +33,7 @@
             "name": "Phera",
             "date": "Apr 29, 2026",
             "time": "6:00 PM",
-            "venue": "Botanix Nature Resort, Sohna, Haryana",
+            "venue": "Botanix Nature Resort, Near Damdama Lake, Sohna, Haryana",
             "googleMapsUrl": "https://maps.app.goo.gl/PDTdpYuRLbpeU18q8",
             "mapImage": "assets/images/map.png",
             "showLocation": true,
@@ -70,9 +44,8 @@
             "name": "Reception",
             "date": "Apr 29, 2026",
             "time": "8:00 PM onwards",
-            "venue": "Botanix Nature Resort, Sohna, Haryana",
+            "venue": "Botanix Nature Resort, Near Damdama Lake, Sohna, Haryana",
             "showLocation": false,
-            "dressCode": "Celebration Evening",
             "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Harshit+%26+Aditi+-+Reception&dates=20260429T200000/20260429T230000&details=Reception+Celebration&location=Botanix+Nature+Resort,+Sohna,+Haryana&ctz=Asia/Kolkata"
         }
     ],
